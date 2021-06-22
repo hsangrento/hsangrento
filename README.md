@@ -1,5 +1,5 @@
 ### .init
-An ordinary back-end worker.
+Back-end developer.
 
 <!--
 **hsangrento/hsangrento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
