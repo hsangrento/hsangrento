@@ -1,5 +1,4 @@
 ### .init
-my website: https://hsangrento.software
 Back-end developer.
 
 <!--
